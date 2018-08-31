@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# 记住先用npm run build  打包成dist文件 然后在pakcage.json 里面配置npm start  改成 node server/index
+
